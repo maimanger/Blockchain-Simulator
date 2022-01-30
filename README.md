@@ -1,7 +1,7 @@
 # Blockchain Simulator
+[Project Vedio Link](https://youtu.be/OfLOyJZbZDY)
+<br />
 
-<br />
-<br />
 
 ## About the project
 This project is to build up a simplified blockchain by using Bitcoin logic. 
@@ -17,8 +17,7 @@ All data contained in the blockchain would be encrypted and ensured authentic.
 - Encrpted with sha265
 
 
-
-### How to run the program?
+### How to run the program
 
 - Dependencies noted: This program uses maven libraries including com.google.guava:30.1.1, junit-4, bouncycastle:bcprov-jdk 15:140.
 - All driver files are in the driver package.
